@@ -58,3 +58,333 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 11:24:28.351
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 11:56:34.587
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 11:56:34.592
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 11:56:46.804
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 11:56:46.807
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 11:57:13.695
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 11:57:13.697
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 11:57:18.133
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 11:57:18.137
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 11:57:47.584
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 11:57:47.586
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 11:59:43.238
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 11:59:43.241
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:00:01.270
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:00:01.273
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:00:14.002
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:00:14.006
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:00:54.970
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:00:54.976
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:01:03.402
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:01:03.408
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:01:23.178
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:01:23.182
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:01:37.595
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:01:37.597
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:01:46.084
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:01:46.086
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:01:48.748
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:01:48.754
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:01:58.013
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:01:58.018
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:02:01.805
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:02:01.807
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:02:10.981
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:02:10.983
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:02:37.260
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:02:37.266
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:18:58.393
+!MESSAGE Failed to normalize pathname for lock on C:\Users\dcpereira\.m2\repository\.locks\:??~~: java.io.IOException: Invalid argument
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:18:58.438
+!MESSAGE Failed to lock file C:\Users\dcpereira\.m2\repository\.locks\:??~~: java.io.FileNotFoundException: C:\Users\dcpereira\.m2\repository\.locks\:??~~.aetherlock (A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:18:58.439
+!MESSAGE Failed to canonicalize path C:\Users\dcpereira\.m2\repository\:??\-.pom.lastUpdated: A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:18:58.505
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:18:58.507
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:18:58.528
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:29.458
+!MESSAGE Failed to normalize pathname for lock on C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~~: java.io.IOException: A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:29.503
+!MESSAGE Failed to lock file C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~~: java.io.FileNotFoundException: C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~~.aetherlock (A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:29.504
+!MESSAGE Failed to canonicalize path C:\Users\dcpereira\.m2\repository\:javax\servlet\-.pom.lastUpdated: A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:29.549
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:29.551
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:29.553
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.530
+!MESSAGE Failed to normalize pathname for lock on C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~servlet-api~3.0-alpha-1: java.io.IOException: A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.576
+!MESSAGE Failed to lock file C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~servlet-api~3.0-alpha-1: java.io.FileNotFoundException: C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~servlet-api~3.0-alpha-1.aetherlock (A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.578
+!MESSAGE Failed to canonicalize path C:\Users\dcpereira\.m2\repository\:javax\servlet\servlet-api\3.0-alpha-1\servlet-api-3.0-alpha-1.pom.lastUpdated: A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-08 12:20:44.597
+!MESSAGE failed to load maven project for org.eclipse.ui.part.FileEditorInput(/FitCurriculos/pom.xml)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.676
+!MESSAGE Failed to normalize pathname for lock on C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~servlet-api~3.0-alpha-1: java.io.IOException: A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.720
+!MESSAGE Failed to lock file C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~servlet-api~3.0-alpha-1: java.io.FileNotFoundException: C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~servlet-api~3.0-alpha-1.aetherlock (A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.721
+!MESSAGE Failed to canonicalize path C:\Users\dcpereira\.m2\repository\:javax\servlet\servlet-api\3.0-alpha-1\servlet-api-3.0-alpha-1.pom.lastUpdated: A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.737
+!MESSAGE Failed to normalize pathname for lock on C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~servlet-api~3.0-alpha-1: java.io.IOException: A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.778
+!MESSAGE Failed to lock file C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~servlet-api~3.0-alpha-1: java.io.FileNotFoundException: C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~servlet-api~3.0-alpha-1.aetherlock (A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.779
+!MESSAGE Failed to canonicalize path C:\Users\dcpereira\.m2\repository\:javax\servlet\servlet-api\3.0-alpha-1\servlet-api-3.0-alpha-1.pom.lastUpdated: A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.783
+!MESSAGE Failed to normalize pathname for lock on C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~servlet-api~3.0-alpha-1: java.io.IOException: A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.826
+!MESSAGE Failed to lock file C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~servlet-api~3.0-alpha-1: java.io.FileNotFoundException: C:\Users\dcpereira\.m2\repository\.locks\:javax.servlet~servlet-api~3.0-alpha-1.aetherlock (A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.827
+!MESSAGE Failed to canonicalize path C:\Users\dcpereira\.m2\repository\:javax\servlet\servlet-api\3.0-alpha-1\servlet-api-3.0-alpha-1.pom.lastUpdated: A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-08 12:20:44.829
+!MESSAGE Could not read maven project
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.855
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.859
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:44.864
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:56.635
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:56.637
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:56.640
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:56.861
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:20:56.864
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:22:32.004
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:22:32.006
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:22:32.012
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:22:51.402
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:22:51.404
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 12:22:51.408
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 13:58:49.830
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 13:58:49.830
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 13:58:49.830
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:05:28.666
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:05:28.671
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:07:30.562
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:07:30.576
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:07:31.646
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:07:31.649
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:07:44.399
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:07:44.401
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:07:46.541
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:07:46.544
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:14:20.880
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:14:20.883
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:15:28.872
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:15:28.875
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:16:50.133
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:16:50.137
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:17:31.447
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:17:31.451
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:20:10.067
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:20:10.069
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:23:35.722
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:23:35.726
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:23:35.740
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:26:32.596
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:26:32.596
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:47:21.469
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:47:21.473
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:49:43.539
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:49:43.542
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:49:53.901
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-11-08 14:49:53.903
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

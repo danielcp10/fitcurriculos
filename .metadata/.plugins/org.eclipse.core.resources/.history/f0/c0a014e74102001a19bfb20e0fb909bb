@@ -1,0 +1,7 @@
+package fitCurriculoPackage;
+
+import javax.servlet.http.HttpServlet;
+
+public class ClientServlet extends HttpServlet {
+
+}

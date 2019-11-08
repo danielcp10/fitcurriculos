@@ -7,6 +7,10 @@
 		<title>FITCurriculos</title>
 	</head>
 	<body>
-		Teste 01
+		<form action="">
+			Initial Page <br/>
+			
+			<input type="submit" value="Load Curriculum List" />
+		</form>
 	</body>
 </html>
