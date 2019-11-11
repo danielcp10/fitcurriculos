@@ -1,0 +1,14 @@
+package fitCurriculoModels;
+
+import org.w3c.dom.DocumentType;
+
+public class Curriculo {
+	private String donoCurriculo;
+	private int curriculo;
+	public String getDonoCurriculo() {
+		return donoCurriculo;
+	}
+	public void setDonoCurriculo(String donoCurriculo) {
+		this.donoCurriculo = donoCurriculo;
+	} 
+}

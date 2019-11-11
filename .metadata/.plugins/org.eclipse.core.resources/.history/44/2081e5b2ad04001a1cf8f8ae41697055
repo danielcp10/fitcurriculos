@@ -1,0 +1,9 @@
+package fitCurriculoServlets;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+@WebServlet(urlPatterns={"/Login"})
+public class ListCurriculumServlet extends HttpServlet {
+
+}

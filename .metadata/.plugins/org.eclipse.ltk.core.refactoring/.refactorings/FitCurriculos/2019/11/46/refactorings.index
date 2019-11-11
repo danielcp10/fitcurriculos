@@ -1,0 +1,5 @@
+1573481242146	Encapsulate field 'donoCurriculo'
+1573481250104	Encapsulate field 'curriculo'
+1573481456888	Rename package 'fitCurriculoPackage'
+1573482001815	Rename resource 'ShowCurriculum.jsp'
+1573495299664	Rename type 'ClientServlet'

@@ -1,0 +1,55 @@
+package fitCurriculoServlets;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import fitCurriculoModels.Curriculo;
+
+@WebServlet(urlPatterns={"/Login"})
+public class LoginServlet extends HttpServlet {
+	
+	/*
+	 Some interesting methods:  Constructor (implicit, constructs the servlet)
+	 							init() (implicit, initializes the servlet)
+	 							destroy() (implicit, destroy the servlet)
+	 The same servlet, when initialized, could treat more than one requisition.	 							
+	 */
+	
+	private static final long serialVersionUID = 1L;
+
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+
+		System.out.println("Entrou no GET");
+		RequestDispatcher dispatcher = req.getRequestDispatcher("Login.jsp");
+		dispatcher.forward(req, resp);
+	}
+
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {		
+		
+		req.setAttribute("Login", req.getParameter("Login"));
+		
+		RequestDispatcher dispatcher = req.getRequestDispatcher("ShowCurriculumList.jsp");
+		dispatcher.forward(req, resp);
+		
+		//resp.getWriter().print("Seja bem vindo, " + login +".");
+		
+		//Curriculo curriculo = new Curriculo();
+
+		/*String antiga = resp.getCharacterEncoding();
+		resp.setCharacterEncoding("UTF-8");
+		resp.getWriter().print(mensagem + "\nCodificação anterior: " + antiga +
+				"\nCondificação atual: " + resp.getCharacterEncoding());*/
+	}
+}
