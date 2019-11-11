@@ -8,16 +8,13 @@
 	</head>
 	<body>
 		<form method = "post" action="ShowCurriculum">
-			<h1 style="font-size:50px;color:blue;font-family:georgia;
-			text-align:center;font-style:italic;">FITCurrículos</h1>
-			
-			<h2 style="text-align:center">
-				Login:
-				<input type="text" value = "" name = "Login"><br/>
-				Senha:
-				<input type="text" value = "" name = "Senha"><br/><br/>
-				<input type="submit" value="Load Curriculum List" />
-			</h2>
+			<p style="font-size:50px;color:blue;font-family:georgia;font-style:italic;">FITCurrículos</p>
+						
+			Login:
+			<input type="text" value = "" name = "Login"><br/>
+			Senha:
+			<input type="text" value = "" name = "Senha"><br/><br/>
+			<input type="submit" value="Load Curriculum List" />
 		</form>
 	</body>
 </html>

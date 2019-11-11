@@ -11,7 +11,7 @@
 			<h1 style="font-size:50px;color:blue;font-family:georgia;
 			text-align:center;font-style:italic;">FITCurrículos</h1>
 			
-			<h2 style="text-align:center">
+			<h2>			
 				Login:
 				<input type="text" value = "" name = "Login"><br/>
 				Senha:
