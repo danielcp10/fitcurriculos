@@ -8,12 +8,12 @@
 	</head>
 	<body>
 		<form method = "post" action="ShowCurriculum">
-			FITCurriculos <br/>
-			
+			<p style="font-size:50px;color:blue;font-family:fantasy;">FITCurrículos</p>
+						
 			Login:
 			<input type="text" value = "" name = "Login"><br/>
 			Senha:
-			<input type="text" value = "" name = "Senha"><br/>
+			<input type="text" value = "" name = "Senha"><br/><br/>
 			<input type="submit" value="Load Curriculum List" />
 		</form>
 	</body>

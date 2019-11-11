@@ -8,8 +8,8 @@
 	</head>
 	<body>
 		<form method = "post" action="ShowCurriculum">
-			<p style="font-size:50px;color:blue;font-family:fantasy;">FITCurrículos</p>
-						
+			<p style="font-size:50px;color:blue;">FITCurriculos</p>
+			
 			Login:
 			<input type="text" value = "" name = "Login"><br/>
 			Senha:
