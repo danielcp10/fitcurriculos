@@ -1,0 +1,27 @@
+package fitCurriculoModels;
+
+public class Curriculo {
+	private String donoCurriculo;
+	private int curriculo;
+	
+	public Curriculo(){
+		this.donoCurriculo = nome;
+	}
+	
+	public String getDonoCurriculo() {
+		return donoCurriculo;
+	}
+	public void setDonoCurriculo(String donoCurriculo) {
+		this.donoCurriculo = donoCurriculo;
+	}
+	public int getCurriculo() {
+		return curriculo;
+	}
+	public void setCurriculo(int curriculo) {
+		this.curriculo = curriculo;
+	} 
+	
+	public static void main(){
+		Curriculo c1 = new Curriculo();
+	}
+}

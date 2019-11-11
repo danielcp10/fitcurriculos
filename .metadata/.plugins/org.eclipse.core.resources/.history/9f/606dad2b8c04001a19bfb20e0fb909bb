@@ -1,0 +1,5 @@
+package fitCurriculoModels;
+
+public class Curriculo {
+	private string donoCurriculo;
+}
