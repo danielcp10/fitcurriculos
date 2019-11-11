@@ -7,9 +7,13 @@
 		<title>FITCurriculos</title>
 	</head>
 	<body>
-		<form action="">
-			Initial Page <br/>
+		<form method = "post" action="ShowCurriculum">
+			FITCurriculos <br/>
 			
+			Login:
+			<input type="text" value = "" name = "Login"><br/>
+			Senha:
+			<input type="text" value = "" name = "Senha"><br/>
 			<input type="submit" value="Load Curriculum List" />
 		</form>
 	</body>

@@ -8,8 +8,15 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet(urlPatterns="/ShowCurriculum.jsp")
+@WebServlet(urlPatterns="/ShowCurriculum")
 public class ClientServlet extends HttpServlet {
+	
+	/*
+	 Some interesting methods:  Constructor (implicit, constructs the servlet)
+	 							init() (implicit, initializes the servlet)
+	 							destroy() (implicit, destroy the servlet)
+	 The same servlet, when initialized, could treat more than one requisition.	 							
+	 */
 	
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp)
@@ -20,7 +27,26 @@ public class ClientServlet extends HttpServlet {
 	@Override
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp)
 			throws ServletException, IOException {
-		System.out.println("Chamou pelo método Post (INSERT)");
-	} 
+		String mensagem = "Chamou pelo método POST (INSERT) no lado do Client!";
+		String login = req.getParameter("Login");
+		
+		resp.getWriter().print("Seja bem vindo, " + login +".");
 
+		String antiga = resp.getCharacterEncoding();
+		resp.setCharacterEncoding("UTF-8");
+		resp.getWriter().print(mensagem + "\nCodificação anterior: " + antiga +
+				"\nCondificação atual: " + resp.getCharacterEncoding());
+	}
+	
+	@Override
+	protected void doPut(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		System.out.println("Chamou pelo método Put (UPDATE)");
+	}
+	
+	@Override
+	protected void doDelete(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		System.out.println("Chamou pelo método Delete (DELETE)");
+	}
 }

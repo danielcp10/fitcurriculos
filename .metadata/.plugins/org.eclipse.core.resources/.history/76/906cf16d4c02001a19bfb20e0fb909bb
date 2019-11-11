@@ -1,0 +1,37 @@
+package fitCurriculoPackage;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet(urlPatterns="/ShowCurriculum.jsp")
+public class ClientServlet extends HttpServlet {
+	
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		System.out.println("Chamou pelo método Get (SELECT)");
+	}
+	
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		String mensagem = "Chamou pelo método POST e estou devolvendo!";
+		/*
+		Logar no lado do servicor (console)
+		System.out.println("Chamou pelo método Post (INSERT)");
+		 * */
+
+		String antiga = resp.getCharacterEncoding();
+		resp.setCharacterEncoding("UTF-8");
+		resp.getWriter().print(mensagem + "\nAntes: " + antiga);
+	} 
+	
+	
+	
+
+}
